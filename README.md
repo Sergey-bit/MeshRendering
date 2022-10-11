@@ -2,8 +2,8 @@
 
 app needs in a model of obj file. path must don't have spaces
 
-W - increase model size
+W - increase model size;
 S - decrease model size
 
-X, Z - rotate of axe X
+X, Z - rotate of axe X;
 Y - rotate of axe Y

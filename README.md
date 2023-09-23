@@ -1,6 +1,6 @@
 # MeshRendering
 
-app needs in a model of obj file. path must don't have spaces
+app needs in a model of obj file. no spaces in the path to the obj.
 
 W - increase model size;
 S - decrease model size
